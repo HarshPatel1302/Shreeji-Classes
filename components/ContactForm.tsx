@@ -119,7 +119,7 @@ export default function ContactForm() {
             Inquiry & Contact Form
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Fill out the form below and we'll get back to you soon
+            Fill out the form below and we&apos;ll get back to you soon
           </p>
         </motion.div>
 
@@ -189,7 +189,7 @@ export default function ContactForm() {
               <h3 className="text-2xl font-bold mb-4">Free Counselling</h3>
               <p className="text-blue-100 mb-4">
                 We offer free online and offline counselling sessions with
-                parents to discuss your child's educational needs.
+                parents to discuss your child&apos;s educational needs.
               </p>
               <motion.a
                 href="https://wa.me/917738758295"
@@ -240,7 +240,7 @@ export default function ContactForm() {
                     onChange={handleInputChange}
                     required
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg text-gray-900 focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
-                    placeholder="Student's Name"
+                    placeholder="Student&apos;s Name"
                   />
                 </div>
 
@@ -263,7 +263,7 @@ export default function ContactForm() {
                 <div>
                   <label className="block text-sm font-semibold text-gray-700 mb-2">
                     <User className="inline mr-2" size={16} />
-                    Parent's Name
+                    Parent&apos;s Name
                   </label>
                   <input
                     type="text"
@@ -294,7 +294,7 @@ export default function ContactForm() {
                 <div>
                   <label className="block text-sm font-semibold text-gray-700 mb-2">
                     <BookOpen className="inline mr-2" size={16} />
-                    Student's Standard/Class *
+                    Student&apos;s Standard/Class *
                   </label>
                   <select
                     name="standard"
@@ -315,7 +315,7 @@ export default function ContactForm() {
                 <div>
                   <label className="block text-sm font-semibold text-gray-700 mb-2">
                     <School className="inline mr-2" size={16} />
-                    Student's School Name
+                    Student&apos;s School Name
                   </label>
                   <input
                     type="text"
