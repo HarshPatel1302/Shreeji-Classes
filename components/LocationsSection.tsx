@@ -6,12 +6,18 @@ import { MapPin, Clock, Phone, Globe } from "lucide-react";
 const locations = [
   {
     name: "Panvel",
+    area: "Panvel, Navi Mumbai",
+    address: "Panvel, Navi Mumbai, Maharashtra",
   },
   {
     name: "Mumbai",
+    area: "Mumbai City",
+    address: "Mumbai, Maharashtra",
   },
   {
     name: "Thane",
+    area: "Thane City",
+    address: "Thane, Maharashtra",
   },
 ];
 
