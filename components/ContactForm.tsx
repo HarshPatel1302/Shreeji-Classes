@@ -223,7 +223,7 @@ export default function ContactForm() {
                   Thank You!
                 </h3>
                 <p className="text-gray-600">
-                  We've received your inquiry and will contact you soon.
+                  We&apos;ve received your inquiry and will contact you soon.
                 </p>
               </motion.div>
             ) : (
